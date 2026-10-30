@@ -1,0 +1,76 @@
+{
+  "scenario_id": "average",
+  "label": "Average JD — Vague comp, missing tool versions, unclear reporting line",
+  "industry": "High-tech Manufacturing",
+  "jd_text": "Embedded Systems Engineer — Hardware/Firmware\n\nCompany:\nWe are a high-tech manufacturing company building next-generation industrial control systems. Our\nproducts are deployed across power, automotive, and industrial automation sectors.\n\nRole Summary:\nWe are hiring an Embedded Systems Engineer to design and develop firmware and board-level hardware\nfor our control platforms. You will work closely with the hardware and systems teams to bring new\nproducts from schematic through to production.\n\nResponsibilities:\n- Design and develop embedded firmware in C/C++ for ARM Cortex-M microcontrollers\n- Design schematics and PCB layouts using Cadence and Altium\n- Bring up new boards and debug hardware/firmware integration issues\n- Participate in design reviews and contribute to design documentation\n- Support manufacturing during production ramp\n\nRequired Skills:\n- Bachelor's or Master's in Electronics or related field\n- Experience with embedded C/C++ firmware development\n- Experience with Cadence and Altium for schematic capture and PCB layout\n- Familiarity with common lab equipment (oscilloscopes, logic analyzers)\n- Understanding of communication protocols (I2C, SPI, UART, CAN)\n\nPreferred:\n- Experience with SPICE simulation\n- Exposure to functional safety standards\n\nReporting and Team:\nYou will be part of the engineering organization and will collaborate with cross-functional teams.\n\nCompensation and Benefits:\nCompensation is competitive and includes health insurance and standard benefits. We are committed\nto building a diverse and inclusive workplace and welcome applicants from all backgrounds.",
+  "cached_advisor_report": {
+    "jdqi_score": 59,
+    "benchmark_comparison": "A solid mid-tier manufacturing JD. Best-in-class postings add explicit salary bands, tool versions, and a named reporting line.",
+    "dimension_breakdown": [
+      {
+        "dimension": "completeness",
+        "score": 60,
+        "narrative": "The posting is reasonably complete overall, though a few areas could be strengthened to bring it closer to best practice."
+      },
+      {
+        "dimension": "skill_specificity",
+        "score": 55,
+        "narrative": "Tools such as Cadence and Altium are named and protocols like I2C/SPI/UART/CAN are listed, though no versions or proficiency levels are given."
+      },
+      {
+        "dimension": "role_coherence",
+        "score": 65,
+        "narrative": "The responsibilities (firmware plus board bring-up plus PCB layout) align reasonably with an experienced embedded engineer profile."
+      },
+      {
+        "dimension": "cognitive_load",
+        "score": 60,
+        "narrative": "The readability is acceptable and the length feels about right for a role at this level."
+      },
+      {
+        "dimension": "inclusion_signals",
+        "score": 60,
+        "narrative": "An inclusion statement is present, though brief and generic."
+      },
+      {
+        "dimension": "compensation",
+        "score": 45,
+        "narrative": "Compensation is described only as 'competitive' with no band, which weakens the posting for the Indian manufacturing market."
+      }
+    ],
+    "suggested_additions": [
+      {
+        "section": "Skills",
+        "suggestion": "Add specific version numbers for Cadence and Altium tools used.",
+        "impact": "Lets candidates self-assess tooling fit precisely."
+      },
+      {
+        "section": "Reporting",
+        "suggestion": "Clarify the reporting structure and who the role reports to.",
+        "impact": "Reduces ambiguity about seniority and team placement."
+      },
+      {
+        "section": "Compensation",
+        "suggestion": "Provide a concrete salary band instead of 'competitive'.",
+        "impact": "Improves candidate response rate in the India market."
+      }
+    ]
+  },
+  "gold_reference": {
+    "dimension_scores": {
+      "completeness": 55,
+      "skill_specificity": 40,
+      "role_coherence": 70,
+      "cognitive_load": 45,
+      "inclusion_signals": 45,
+      "compensation": 25
+    },
+    "suggested_additions": [
+      "Specify Cadence and Altium version numbers and the required proficiency level",
+      "State the exact reporting line and the team size the engineer will join",
+      "Replace 'competitive' with an explicit INR salary band",
+      "Add SPICE simulation experience to the required skills rather than preferred"
+    ],
+    "notes": "Gold hand-written. Pipeline is broadly aligned but a little generous on skill_specificity and compensation; additions overlap partly with pipeline's."
+  }
+}

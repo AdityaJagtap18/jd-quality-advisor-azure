@@ -1,0 +1,5 @@
+# pages/ holds an imported UI module (pages/eval_observatory.py), NOT a Streamlit
+# multipage app. Hide the auto-generated sidebar navigation so the app presents
+# only its three st.tabs.
+[client]
+showSidebarNavigation = false

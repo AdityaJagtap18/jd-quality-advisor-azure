@@ -1,0 +1,69 @@
+{
+  "scenario_id": "strong",
+  "label": "Strong JD — Explicit INR band, tool versions, clear seniority + EEO",
+  "industry": "GCC (India)",
+  "jd_text": "Data Engineering Lead — Global Capability Centre (Bengaluru)\n\nAbout the Team:\nOur Bengaluru Global Capability Centre owns the data platform that powers analytics and ML for our\nglobal business. The platform processes billions of events per day and is built on a modern,\nwell-documented stack.\n\nThe Role:\nWe are hiring a Data Engineering Lead to own the roadmap for our batch and streaming data platform\nand to lead a team of five data engineers. You will report directly to the Head of Data Platform\n(based in Bengaluru) and partner with analytics and ML teams across India, the US, and the UK.\n\nWhat You Will Do:\n- Lead and mentor a team of five data engineers, owning their growth and performance\n- Own the architecture and roadmap for our batch (Apache Spark 3.5) and streaming (Apache Kafka 3.7) pipelines\n- Drive data quality, lineage, and governance across the platform\n- Partner with analytics and ML stakeholders to prioritise and deliver platform capabilities\n\nRequired Skills:\n- 8+ years in data engineering, including 2+ years leading engineers\n- Expert-level Python 3.11 and SQL\n- Production experience with Apache Spark 3.x and Apache Kafka 3.x\n- Hands-on experience with dbt 1.7+ and Airflow 2.9+ for orchestration\n- Experience running data workloads on AWS (EMR, Glue, S3)\n\nCareer Progression:\nThis is a lead role on a defined path toward Principal Engineer or Engineering Manager, with a\nstructured review every six months.\n\nCompensation:\nINR 45,00,000 - 60,00,000 fixed per annum, plus performance bonus and RSUs. Hybrid working (three\ndays in office).\n\nEqual Opportunity:\nWe are an equal opportunity employer. We celebrate diversity and are committed to creating an\ninclusive environment for all employees, and we provide reasonable accommodations throughout the\nhiring process.",
+  "cached_advisor_report": {
+    "jdqi_score": 90,
+    "benchmark_comparison": "This JD is at or near best-in-class for GCC data engineering leadership roles: transparent compensation, versioned tooling, and coherent seniority framing.",
+    "dimension_breakdown": [
+      {
+        "dimension": "completeness",
+        "score": 90,
+        "narrative": "The posting covers responsibilities, a five-engineer team, a named reporting line (Head of Data Platform), career progression toward Principal/EM, and a six-month review cadence."
+      },
+      {
+        "dimension": "skill_specificity",
+        "score": 88,
+        "narrative": "Every core tool carries a version — Spark 3.5, Kafka 3.7, Python 3.11, dbt 1.7+, Airflow 2.9+ — and expert-level expectations are stated explicitly."
+      },
+      {
+        "dimension": "role_coherence",
+        "score": 92,
+        "narrative": "The 8+ years plus 2+ years leading requirement aligns cleanly with a lead role owning a five-person team and platform roadmap."
+      },
+      {
+        "dimension": "cognitive_load",
+        "score": 85,
+        "narrative": "The posting is well structured with short, scannable sections and minimal jargon relative to its technical depth."
+      },
+      {
+        "dimension": "inclusion_signals",
+        "score": 90,
+        "narrative": "A full EEO statement is present, including a commitment to reasonable accommodations during hiring."
+      },
+      {
+        "dimension": "compensation",
+        "score": 95,
+        "narrative": "An explicit INR 45-60L fixed band is stated, plus bonus, RSUs, and a clear hybrid policy."
+      }
+    ],
+    "suggested_additions": [
+      {
+        "section": "Culture",
+        "suggestion": "Add a link to the team's engineering blog for candidate context.",
+        "impact": "Gives strong candidates a concrete sense of the team's work."
+      },
+      {
+        "section": "Role",
+        "suggestion": "Mention on-call rotation expectations for the lead role.",
+        "impact": "Sets clear expectations about operational responsibilities."
+      }
+    ]
+  },
+  "gold_reference": {
+    "dimension_scores": {
+      "completeness": 88,
+      "skill_specificity": 90,
+      "role_coherence": 90,
+      "cognitive_load": 82,
+      "inclusion_signals": 92,
+      "compensation": 95
+    },
+    "suggested_additions": [
+      "Add a link to the engineering blog or tech talks for candidate context",
+      "Mention on-call rotation and incident response expectations for the lead"
+    ],
+    "notes": "Gold hand-written. Pipeline scores match the human read closely; additions are specific and align with the pipeline's suggestions."
+  }
+}

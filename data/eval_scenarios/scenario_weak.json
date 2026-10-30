@@ -1,0 +1,81 @@
+{
+  "scenario_id": "weak",
+  "label": "Weak JD — Vague skills, no salary band, seniority mismatch",
+  "industry": "IT/SaaS",
+  "jd_text": "Full Stack Developer (Rockstar Ninja Wanted!)\n\nAbout Us:\nWe are a fast-paced, dynamic, high-growth SaaS company disrupting the industry with cutting-edge\nsolutions. We are looking for a rockstar developer and coding ninja to join our family and hit the\nground running from day one. If you eat, sleep and breathe code, this is the role for you.\n\nThe Role:\nAs a Full Stack Developer you will be responsible for a wide variety of tasks across the entire\nstack. You will work on the frontend, the backend, the database, the infrastructure, the deployment\npipeline, and pretty much everything else in between. We wear many hats here and we expect you to\nwear all of them at once. You must be a self-starter who requires zero hand-holding and can operate\nindependently with minimal guidance while also being an amazing team player and culture fit.\n\nRequirements:\n- 10+ years of experience with React\n- JavaScript\n- HTML\n- CSS\n- Node\n- Python\n- Databases\n- Cloud\n- Docker\n- Kubernetes\n- Machine Learning\n- DevOps\n- Agile\n- Excellent communication skills\n- Ability to thrive in a high-pressure, fast-paced environment\n- Willingness to work long hours and weekends when needed\n- Must be a passionate, driven, results-oriented individual\n\nResponsibilities:\nYou will architect, design, develop, test, deploy, monitor, maintain, document, and support our\nentire platform end to end. You will also mentor junior engineers, interface with stakeholders,\ngather requirements, groom the backlog, run stand-ups, and contribute to our thought leadership\ncontent. You will own the outcomes and be accountable for delivery. The ideal candidate is a 10x\nengineer who can single-handedly move mountains.\n\nWhat We Offer:\nA vibrant culture, free snacks, ping pong, and unlimited growth potential. Compensation is\ncompetitive and commensurate with experience. We are an equal opportunity kind of place and we\nvalue diversity of thought above everything else.",
+  "cached_advisor_report": {
+    "jdqi_score": 39,
+    "benchmark_comparison": "This JD falls well short of best-in-class IT/SaaS postings, which pair precise skill requirements with transparent compensation and realistic seniority framing.",
+    "dimension_breakdown": [
+      {
+        "dimension": "completeness",
+        "score": 45,
+        "narrative": "The job description is missing several important elements that would typically be expected in a posting of this kind."
+      },
+      {
+        "dimension": "skill_specificity",
+        "score": 40,
+        "narrative": "Skills are mentioned but the level of detail varies and could be stronger across the posting."
+      },
+      {
+        "dimension": "role_coherence",
+        "score": 35,
+        "narrative": "There is some tension between the stated level and the expectations described in the text."
+      },
+      {
+        "dimension": "cognitive_load",
+        "score": 40,
+        "narrative": "The overall readability could be a barrier for some candidates reading the posting."
+      },
+      {
+        "dimension": "inclusion_signals",
+        "score": 55,
+        "narrative": "The language used is fairly standard for postings of this type and does not raise major concerns."
+      },
+      {
+        "dimension": "compensation",
+        "score": 10,
+        "narrative": "Compensation information does not appear to be clearly addressed in the posting overall."
+      }
+    ],
+    "suggested_additions": [
+      {
+        "section": "Skills",
+        "suggestion": "Add more detail about the required skills.",
+        "impact": "Helps candidates understand the role."
+      },
+      {
+        "section": "Structure",
+        "suggestion": "Consider improving the overall structure.",
+        "impact": "Makes the posting easier to read."
+      },
+      {
+        "section": "Compensation",
+        "suggestion": "Think about mentioning compensation.",
+        "impact": "Candidates like to know."
+      },
+      {
+        "section": "General",
+        "suggestion": "It may help to expand on a few areas.",
+        "impact": "Improves the posting."
+      }
+    ]
+  },
+  "gold_reference": {
+    "dimension_scores": {
+      "completeness": 20,
+      "skill_specificity": 10,
+      "role_coherence": 15,
+      "cognitive_load": 25,
+      "inclusion_signals": 30,
+      "compensation": 0
+    },
+    "suggested_additions": [
+      "Specify the React version (16, 17, or 18) and whether TypeScript proficiency is required",
+      "Add an explicit INR salary band — without it the JD is invisible to candidates using salary filters",
+      "Replace '10+ years React' with a realistic 3-5 year range appropriate for a mid-level role",
+      "Remove 'rockstar' and 'ninja' framing and list concrete proficiency levels per tool"
+    ],
+    "notes": "Gold hand-written. Pipeline scores are inflated relative to the human read, especially skill_specificity and inclusion_signals; gold additions are specific and grounded in the JD text."
+  }
+}

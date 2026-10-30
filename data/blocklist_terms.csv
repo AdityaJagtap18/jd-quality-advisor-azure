@@ -1,0 +1,25 @@
+term,description
+young and energetic,Age-coded exclusion (favours younger candidates)
+recent graduate only,Age-coded exclusion
+digital native,Age-coded proxy for younger candidates
+candidates aged 25-35,Explicit age range requirement
+must be under 30,Explicit age ceiling
+male candidates preferred,Gender preference
+female candidates only,Gender preference
+men only,Gender preference
+women only,Gender preference
+must be married,Marital-status requirement
+must be single,Marital-status requirement
+no pregnant applicants,Pregnancy discrimination
+Christian only,Religious preference
+Hindu only,Religious preference
+Muslim only,Religious preference
+of Indian nationality only,Nationality exclusion
+local candidates only,Nationality/origin proxy exclusion
+must be physically attractive,Appearance requirement
+good-looking candidates,Appearance requirement
+able-bodied only,Disability exclusion
+no disabilities,Disability exclusion
+native English speaker,National-origin proxy (prefer 'fluent in English')
+must own a car,Socioeconomic barrier unrelated to the role
+high caste preferred,Caste discrimination
